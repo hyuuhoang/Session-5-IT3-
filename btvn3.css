@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+th,td{
+    padding: 20px;
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+.thead{
+    color: white ;
+    background-color: rgb(18, 33, 197);
+}
+body{
+    background-color: rgb(221, 229, 229);
+}
+.trang{
+    background-color: aliceblue;
+}
